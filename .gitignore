@@ -1,0 +1,10 @@
+# gitignore for CubeIDE project
+
+# Build artifacts
+/Debug
+/Release
+*.launch
+
+# cproject и .mxproject нежелательно убирать
+#/.cproject
+#/.mxproject
